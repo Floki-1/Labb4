@@ -1,0 +1,15 @@
+C:\gik299\labb4\Labb4\Labb4\bin\Debug\net8.0\Labb4.exe
+C:\gik299\labb4\Labb4\Labb4\bin\Debug\net8.0\Labb4.deps.json
+C:\gik299\labb4\Labb4\Labb4\bin\Debug\net8.0\Labb4.runtimeconfig.json
+C:\gik299\labb4\Labb4\Labb4\bin\Debug\net8.0\Labb4.dll
+C:\gik299\labb4\Labb4\Labb4\bin\Debug\net8.0\Labb4.pdb
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.AssemblyInfoInputs.cache
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.AssemblyInfo.cs
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.csproj.CoreCompileInputs.cache
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.sourcelink.json
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.dll
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\refint\Labb4.dll
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.pdb
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\Labb4.genruntimeconfig.cache
+C:\gik299\labb4\Labb4\Labb4\obj\Debug\net8.0\ref\Labb4.dll
